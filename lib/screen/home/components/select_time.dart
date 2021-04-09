@@ -36,7 +36,7 @@ class SelectTime extends StatelessWidget {
           top: 15,
         ),
         child: Row(
-          children: <Widget>[
+          children: [
             Text(
               time,
               style: TextStyle(
